@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sways-simulator/static/css/main.5045a7e3.css",
+    "main.js": "/sways-simulator/static/js/main.bac0673f.js",
+    "index.html": "/sways-simulator/index.html",
+    "main.5045a7e3.css.map": "/sways-simulator/static/css/main.5045a7e3.css.map",
+    "main.bac0673f.js.map": "/sways-simulator/static/js/main.bac0673f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5045a7e3.css",
+    "static/js/main.bac0673f.js"
+  ]
+}
